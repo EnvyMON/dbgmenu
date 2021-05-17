@@ -4,6 +4,7 @@
         "title": "엽기 무뼈닭발",
         "content": "한입에 쏙, 먹기 편한 엽기무뼈닭발",
         "price": 15000,
+        "count": 1,
         "text": "2020_hotmenuY04.png"
     },
     {
@@ -11,6 +12,7 @@
         "title": "엽기 국물닭발",
         "content": "매콤한 국물에 당면과 떡까지 함께!",
         "price": 15000,
+        "count": 1,
         "text": "2020_hotmenuY02.png"
     },
     {
@@ -18,6 +20,7 @@
         "title": "엽기 오돌뼈",
         "content": "씹을수록 더 맛있는 엽기 오돌뼈",
         "price": 14000,
+        "count": 1,
         "text": "2020_hotmenuY07.png"
     }
 ]
